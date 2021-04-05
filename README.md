@@ -2,7 +2,7 @@
 
 ## Simple UI to get random images.
 
-### Builded with JavaSript
+### Builded with JavaScript
 
 ### API [Lorem Picsum](https://picsum.photos) :)
 
